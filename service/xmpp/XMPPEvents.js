@@ -9,7 +9,7 @@ const XMPPEvents = {
     AUDIO_MUTED_BY_FOCUS: 'xmpp.audio_muted_by_focus',
 
     // mute-unmute-XX - Added new event for AUDIO_UNMUTED_BY_FOCUS
-    AUDIO_UNMUTED_BY_FOCUS: 'xmpp.audio_unmuted_by_focus'
+    AUDIO_UNMUTED_BY_FOCUS: 'xmpp.audio_unmuted_by_focus',
 
     AUTHENTICATION_REQUIRED: 'xmpp.authentication_required',
     BRIDGE_DOWN: 'xmpp.bridge_down',
